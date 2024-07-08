@@ -1,5 +1,4 @@
-# Social-Media-Platform
-<br>
+<h1>Social-Media-Platform</h1>
 <h2>Overview</h2>
 <p>A server-side social media platform where users can register/signin, post anythings, like the posts and comments and comment on post.</p>
 <br>
@@ -49,3 +48,31 @@
     <li>user can get how many user like on specific post or comment</li>
   </ul></li>
 </ul>
+<br>
+<ol>
+  <h2>Installation</h2>
+  <li>Clone the repository: `git clone https://github.com/Pranay7-kr/Social-Media-Platform.git`</li>
+  <li>Navigate to the project directory: `cd Social-Media-Platform`</li>
+  <li>Install dependencies: `npm install`</li>
+</ol>
+<br>
+<ol>
+  <h2>Usage</h2>
+  <li>Start the server `node server.js`</li>
+  <li>Access the platform at `http://localhost:6000`</li>
+</ol>
+<br>
+<h2>Configuration</h2>
+<p>edit the `env.js` file for enviorment-specific configuration</p>
+<br>
+<ol>
+  <h2>Contributing</h2>
+  <li>Fork the repository</li>
+  <li>Create a new branch: `git checkout -b feature-name`</li>
+  <li>Commit your changes: `git commit -m 'Add some feature'`</li>
+  <li>Push to the branch: `git push origin feature-name`</li>
+  <li>Create a pull request</li>
+</ol>
+<br>
+<h2>Contact</h2>
+<p>For any questions or issues, please contact pranaykumar70529@gmail.com.</p>
