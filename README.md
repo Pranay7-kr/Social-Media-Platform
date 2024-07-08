@@ -12,5 +12,10 @@
       <li>url: api/users/signup</li>
       <li>Description: To add users on social media</li>
     </ul></li>
+    <li><ul>
+      <li>Method: Get</li>
+      <li>url: api/users/signin</li>
+      <li>Description: To signin users on social media</li>
+    </ul></li>
   </ul></li>
 </ul>
