@@ -1,2 +1,16 @@
 # Social-Media-Platform
-It is a server side social media platform.
+<br>
+## Overview
+A server-side social media platform where users can register/signin, post anythings, like the posts and comments and comment on post.
+<br>
+<h2>Feature</h2>
+<ul>
+  <li><ul>
+    <h5>Users</h5>
+    <li><ul>
+      <li>Method: Post</li>
+      <li>url: api/users/signup</li>
+      <li>Description: To add users on social media</li>
+    </ul></li>
+  </ul></li>
+</ul>
