@@ -1,6 +1,6 @@
 <h1>Social-Media-Platform</h1>
 <h2>Overview</h2>
-<p>A server-side social media platform where users can register/signin, post anythings, like the posts and comments and comment on post.</p>
+<p>A server-side social media platform where users can register/signin, post anythings, like the posts or comments and comment on post.</p>
 <br>
 <h2>Used Technology</h2>
 <ul>
@@ -63,7 +63,7 @@
 </ol>
 <br>
 <h2>Configuration</h2>
-<p>edit the `env.js` file for enviorment-specific configuration</p>
+<p>Edit the `env.js` file for enviorment-specific configuration</p>
 <br>
 <h2>Contributing</h2>
 <ol>
