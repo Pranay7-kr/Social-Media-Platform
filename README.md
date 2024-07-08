@@ -51,7 +51,7 @@
 <br>
 <h2>Installation</h2>
 <ol>
-  <li>Clone the repository: `git clone https://github.com/Pranay7-kr/Social-Media-Platform.git`</li>
+  <li>Clone the repository: `git clone https://github.com/Pranay7-kr/Social-Media-Platform.git</li>
   <li>Navigate to the project directory: `cd Social-Media-Platform`</li>
   <li>Install dependencies: `npm install`</li>
 </ol>
