@@ -1,7 +1,7 @@
 # Social-Media-Platform
 <br>
-## Overview
-A server-side social media platform where users can register/signin, post anythings, like the posts and comments and comment on post.
+<h2>Overview</h2>
+<p>A server-side social media platform where users can register/signin, post anythings, like the posts and comments and comment on post.</p>
 <br>
 <h2>Feature</h2>
 <ul>
