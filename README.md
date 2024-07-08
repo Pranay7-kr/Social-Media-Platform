@@ -51,14 +51,13 @@
 <br>
 <h2>Installation</h2>
 <ol>
-  <li>Clone the repository: `git clone https://github.com/Pranay7-kr/Social-Media- 
-      Platform.git`</li>
+  <li>Clone the repository: `git clone https://github.com/Pranay7-kr/Social-Media-Platform.git`</li>
   <li>Navigate to the project directory: `cd Social-Media-Platform`</li>
   <li>Install dependencies: `npm install`</li>
 </ol>
 <br>
+<h2>Usage</h2>
 <ol>
-  <h2>Usage</h2>
   <li>Start the server `node server.js`</li>
   <li>Access the platform at `http://localhost:6000`</li>
 </ol>
@@ -66,8 +65,8 @@
 <h2>Configuration</h2>
 <p>edit the `env.js` file for enviorment-specific configuration</p>
 <br>
+<h2>Contributing</h2>
 <ol>
-  <h2>Contributing</h2>
   <li>Fork the repository</li>
   <li>Create a new branch: `git checkout -b feature-name`</li>
   <li>Commit your changes: `git commit -m 'Add some feature'`</li>
