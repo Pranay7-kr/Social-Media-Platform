@@ -3,6 +3,14 @@
 <h2>Overview</h2>
 <p>A server-side social media platform where users can register/signin, post anythings, like the posts and comments and comment on post.</p>
 <br>
+<h2>Used Technology</h2>
+<ul>
+  <li>JavaScript</li>
+  <li>Node.js</li>
+  <li>Express.js</li>
+  <li>MongoDB</li>
+</ul>
+<br>
 <h2>Feature</h2>
 <ul>
   <li><ul>
@@ -10,7 +18,7 @@
     <li>Add user</li>
     <li>SignIn user</li>
     <li>Logout user from devices</li>
-    <li>Loagout user from all devices</li>
+    <li>Logout user from all devices</li>
     <li>Update user information</li>
     <li>Delete account of the user</li>
   </ul></li>
@@ -27,5 +35,17 @@
     <li>Any user can see specific post by userId</li>
     <li>user can update their post</li>
     <li>user can delete their post</li>
+  </ul></li>
+  <li><ul>
+    <h5>Comment</h5>
+    <li>user can add commnet on specific post</li>
+    <li>user can see commnets on specific post</li>
+    <li>user can update comment their comment</li>
+    <li>user can delete their comment</li>
+  </ul></li>
+  <li><ul>
+    <h5>Like</h5>
+    <li>user can like and unlike any posts or comments</li>
+    <li>user can get how many user like on specific post or comment</li>
   </ul></li>
 </ul>
